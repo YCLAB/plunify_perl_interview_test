@@ -1,0 +1,1 @@
+Why is high fanout bad in an FPGA design? -> harnhua@plunify.com
